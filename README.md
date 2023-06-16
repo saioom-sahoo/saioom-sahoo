@@ -1,7 +1,4 @@
 ![logo](https://github.com/saioom-sahoo/saioom-sahoo/blob/master/White%20Black%20Minimalist%20Banner.mp4)
-
-
-
 <h1 align="center">Hi 🤟, I'm Saioom sahoo🧑‍💻</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="aim"width=300 src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472t27gyhlhjhchnrda8uw56zhh41em9qgs3jm046l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
