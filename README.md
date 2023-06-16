@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="aim"width=300 src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472t27gyhlhjhchnrda8uw56zhh41em9qgs3jm046l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saioom-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="saioom-sahoo" /> </p>
--📫 How to reach me **<osai17898@gmail.com>**
+-📫 How to reach me **osai17898@gmail.com**
 
 
 -⚡ Fun fact **I am funny 😄**
